@@ -1,0 +1,26 @@
+[
+   { 
+        "message": {
+            "text": "text 1",
+            "author": "author 1"
+        }
+   },
+   { 
+        "message": {
+            "text": "text 2",
+            "author": "author 2"
+        }
+   },
+   { 
+        "message": {
+            "text": "text 3",
+            "author": "author 3"
+        }
+   },
+   { 
+        "message": {
+            "text": "text 4",
+            "author": "author 4"
+        }
+   }
+]
